@@ -126,7 +126,7 @@ export const headerData = {
     // },
   ],
   socialLinks,
-  actions: [{ text: 'Contact', href: '#contact', target: '_blank' }],
+  actions: [{ text: 'Contact', href: '#contact' }],
 };
 
 export const footerData = {

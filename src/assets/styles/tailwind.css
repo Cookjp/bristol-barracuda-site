@@ -30,7 +30,7 @@
   }
 
   .btn-secondary {
-    @apply btn text-white;
+    @apply btn text-black;
   }
 
   .btn-tertiary {
